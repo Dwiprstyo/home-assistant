@@ -1,0 +1,8 @@
+{
+  "name": "Home Assistant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6e0d7db5"
+}
